@@ -33,7 +33,6 @@
 
 Для использования скрипта необходимо установить несколько Python-библиотек. Для этого выполните следующую команду:
 
-bash
 pip install requests streamlit pandas aiohttp
 
 
