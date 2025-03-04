@@ -24,3 +24,4 @@
 
 Результаты можно скачать в форматах **CSV** и **Excel**.
 
+Код взят с [https://t.me/python_seo](https://t.me/python_seo)
